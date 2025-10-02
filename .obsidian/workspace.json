@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "6c35401c87b5562a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb31eb908df47488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccfba7a5a280ac57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未来投资规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未来投资规划"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e201272ac2d277f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe89a68cbd59ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34596a657e75f59b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9e6935ced9b6d86c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\":",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2300571ede0bc72c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "756a5240a3d4cae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "874269b5ac9e177f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2427279d6028e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "各种deepresearch存档/B站.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "B站 的反向链接列表"
+            }
+          },
+          {
+            "id": "66836d9554026561",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "各种deepresearch存档/B站.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "B站 的出链列表"
+            }
+          },
+          {
+            "id": "019f10e3e4cab527",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bffc509d08069d51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未来投资规划.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未来投资规划 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "ccfba7a5a280ac57",
+  "lastOpenFiles": [
+    "准备信息方法论.md",
+    "Pasted image 20250729102053.png",
+    "未来投资规划.md",
+    "各种deepresearch存档/医药股/2025-10-2-特朗普发表跨境医药言论调研.md",
+    "各种deepresearch存档/医药股/港股创新药GEMINI调研.md",
+    "给基金协会的研究建议.md",
+    "2025-09-06.md",
+    "各种deepresearch存档/marvell",
+    "各种deepresearch存档/国内芯片/昆仑芯持股情况.md",
+    "各种deepresearch存档/国内芯片/昆仑芯持股情况.assets/IMG-20250911105419278.png",
+    "各种deepresearch存档/国内芯片/昆仑芯持股情况.assets",
+    "各种deepresearch存档/国内芯片/昆仑芯持股情况.assets/IMG-20250911105315764.png",
+    "未来投资规划.assets/IMG-20250911105207882.png",
+    "未来投资规划.assets/IMG-20250911104229347.png",
+    "未命名.base",
+    "未命名.canvas",
+    "未命名 1.base",
+    "各种deepresearch存档/国内ETF调研.md",
+    "二级投资面试.md",
+    "各种deepresearch存档/微软调研.md",
+    "各种deepresearch存档/国内芯片/国内芯片市场份额调研.md",
+    "各种deepresearch存档/国内芯片/寒武纪相关.md",
+    "各种deepresearch存档/医药股/减肥药-礼来和诺和诺德的研发进展.md",
+    "各种deepresearch存档/国内芯片",
+    "各种deepresearch存档/医药股/医药股相关数据.md",
+    "各种deepresearch存档/医药股/减肥药.md",
+    "各种deepresearch存档/医药股/医药股相关数据.assets",
+    "各种deepresearch存档/医药股/医药股相关数据.assets/IMG-20250818213922804.png",
+    "各种deepresearch存档/医药股/减肥药.assets",
+    "各种deepresearch存档/医药股/减肥药.assets/IMG-20250818213209375.png",
+    "各种deepresearch存档/医药股",
+    "各种deepresearch存档/UNH联合健康.md",
+    "各种deepresearch存档/hims & hers.md",
+    "各种deepresearch存档/特斯拉相关/特斯拉FSD 芯片.md",
+    "各种deepresearch存档/特斯拉相关/自动驾驶市场大小估算.md",
+    "各种deepresearch存档/特斯拉相关/出行市场份额调研.md",
+    "各种deepresearch存档/国内自媒体平台调研/快手是如何和主播进行分成的.md",
+    "各种deepresearch存档/国内自媒体平台调研/B站.md",
+    "各种deepresearch存档/国内自媒体平台调研/B站和快手毛利率的差异-google-research 调研.md",
+    "各种deepresearch存档/国内自媒体平台调研/B站如何和创作者还有直播的人分成.md",
+    "各种deepresearch存档/晶体管CMOS原理.md",
+    "各种deepresearch存档/国内自媒体平台调研",
+    "各种deepresearch存档/新建文件夹",
+    "Pasted image 20250729180903.png",
+    "准备信息方法论.assets/IMG-20250813110417066.png",
+    "准备信息方法论.assets/IMG-20250812173423023.png",
+    "测试.canvas"
+  ]
+}
